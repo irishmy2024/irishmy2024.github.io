@@ -2,7 +2,7 @@
 title: Stents
 url: "" #https://stents.be the base hostname & protocol for your site, e.g. http://example.com, also used in jekyll-seo-tag
 baseurl: ""
-repo: https://github.com/YJPL/stents/
+repo: https://github.com/irishmy2024/irishmy2024.github.io/
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
@@ -17,7 +17,7 @@ author:
 social:
   name: # replace this
   links:
-    - https://github.com/YJPL/stents
+    - https://github.com/irishmy2024/irishmy2024.github.io/
 
 # Build settings
 markdown: kramdown
